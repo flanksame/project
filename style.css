@@ -25,6 +25,8 @@ body {
   min-height: 100vh;
   background: linear-gradient(#2b1055, #7597de);
   overflow-x: hidden;
+  width : auto;
+  height : auto;
 }
 .h2_tag {
   font-family: myfonts, sans-serif;
